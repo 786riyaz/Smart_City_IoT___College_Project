@@ -60,10 +60,10 @@ Sensors → Arduino → ESP-32 → Firebase → Web/Mobile Dashboard
 ### 📷 Block Diagram
 
 ```markdown
-![Smart Parking](01 Block Diagrams/Smart Parking.jpg)
+![Smart_Parking](Block_Diagrams/Smart_Parking.jpg)
 ```
 
-![Smart Parking](01 Block Diagrams/Smart Parking.jpg)
+![Smart_Parking](Block_Diagrams/Smart_Parking.jpg)
 
 ### ⚙ How It Works
 
@@ -86,10 +86,10 @@ Sensors → Arduino → ESP-32 → Firebase → Web/Mobile Dashboard
 ### 📷 Block Diagram
 
 ```markdown
-![Smart Street Light](01 Block Diagrams/Smart Street Light.jpg)
+![Smart_Street_Light](Block_Diagrams/Smart_Street_Light.jpg)
 ```
 
-![Smart Street Light](01 Block Diagrams/Smart Street Light.jpg)
+![Smart_Street_Light](Block_Diagrams/Smart_Street_Light.jpg)
 
 ### ⚙ How It Works
 
@@ -112,10 +112,10 @@ Sensors → Arduino → ESP-32 → Firebase → Web/Mobile Dashboard
 ### 📷 Block Diagram
 
 ```markdown
-![Smart Waste Management](01 Block Diagrams/Smart Waste Management.jpg)
+![Smart_Waste_Management](Block_Diagrams/Smart_Waste_Management.jpg)
 ```
 
-![Smart Waste Management](01 Block Diagrams/Smart Waste Management.jpg)
+![Smart_Waste_Management](Block_Diagrams/Smart_Waste_Management.jpg)
 
 ### ⚙ How It Works
 
@@ -137,10 +137,10 @@ Sensors → Arduino → ESP-32 → Firebase → Web/Mobile Dashboard
 ### 📷 Block Diagram
 
 ```markdown
-![Smart Water Management](01 Block Diagrams/Smart Water Management.jpg)
+![Smart_Water_Management](Block_Diagrams/Smart_Water_Management.jpg)
 ```
 
-![Smart Water Management](01 Block Diagrams/Smart Water Management.jpg)
+![Smart_Water_Management](Block_Diagrams/Smart_Water_Management.jpg)
 
 ### ⚙ How It Works
 
